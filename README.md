@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Abdelilah 
+### Hi there 👋, My name is Abdelilah 
 #### Software Engineer
 ![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
