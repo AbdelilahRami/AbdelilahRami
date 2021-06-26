@@ -7,4 +7,3 @@ I'm Abdelilah from Paris, a software enginner. I really enjoy working with progr
 
 Skills: Javascript (Angular and React), Java EE, MYSQL, Redis, MongoDb, NodeJs Express...
 
-- 🔭 I’m currently working on this page. 
